@@ -1,4 +1,4 @@
-import { Post, PostReferences, PrivatePost, PublicPost } from './models/Post';
+import { Post } from './models/Post';
 import { HexString } from './opaqueTypes';
 import { serialize } from './serialization';
 import { byteArrayToHex } from './conversion';
