@@ -1,0 +1,24 @@
+{
+  "name": "group-protocol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/elliptic": "^6.4.12",
+    "tslib": "^1.11.1",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@types/node": "^13.13.0",
+    "deep-equal": "^2.0.2",
+    "ecma-nacl": "^2.4.2",
+    "elliptic": "^6.5.2",
+    "js-sha3": "^0.8.0",
+    "util": "^0.12.2"
+  }
+}
